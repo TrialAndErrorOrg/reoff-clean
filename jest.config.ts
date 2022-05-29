@@ -1,3 +1,4 @@
+/* eslint-disable */
 const config = {
   displayName: 'reoff-clean',
   preset: '../../../jest.preset.js',
